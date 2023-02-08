@@ -1,0 +1,64 @@
+.prj {
+  display: flex;
+  flex-direction: column;
+  border-top: 0.05px #dc0c71 solid;
+  /* margin-top:10px; */
+  margin-right: 173.54px;
+  margin-left: 125px;
+  height: 575px;
+  font-family: papyrus;
+  font-size: small;
+}
+
+.photo2 {
+  height: 180px;
+  margin-right: 30px;
+  margin-top: 40px;
+  width: 235px;
+  border: 0.5px #dc0c71 solid;
+  margin-right: 171.2px;
+}
+
+.photo3 {
+  height: 180px;
+  margin-right: 30px;
+  margin-top: 40px;
+  width: 235px;
+  border: 0.5px #dc0c71 solid;
+  margin-right: 171.3px;
+}
+.photo4 {
+  height: 180px;
+  margin-right: 10px;
+  margin-top: 40px;
+  width: 235px;
+  border: 0.5px #dc0c71 solid;
+}
+
+.prjcont {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.imgcont {
+  width: 235px;
+  font-size: medium;
+  word-break: break-all;
+  font-family: "Times New Roman";
+}
+.butonC {
+  margin-top: 70px;
+  display: flex;
+  gap: 20px;
+}
+.butonC1 {
+  margin-top: 55px;
+  display: flex;
+  gap: 20px;
+}
+.butonC2 {
+  margin-top: 90px;
+  display: flex;
+  gap: 20px;
+}
