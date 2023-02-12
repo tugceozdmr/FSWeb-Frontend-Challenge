@@ -14,7 +14,7 @@ export default function Projects() {
         <div className="imgcont">
           <img src={Workintech} alt="" className="photo2" />
           <div clasName="paragraf1 ">
-I received training in the workintech program, which brings together<br></br> young people who are curious about technology.</div>
+I received training in the workintech program, which brings together<br></br> young people who are curious <br></br>about technology.</div>
           <div className="butonC">
             <button>React</button>
             <button>Redux</button>
@@ -34,7 +34,7 @@ I received training in the workintech program, which brings together<br></br> yo
         <div className="imgcont">
           <img src={Proj} alt="" className="photo3" />
           <div clasName="paragraf2">
-I took part in various projects in the workintech training program. This is a sample project. You can browse <br></br> the project details by clicking the button.</div>
+ This is a sample project. You can browse the project details by<br></br> clicking the button.</div>
           <div className="butonC1">
             <button>React</button>
             <button>Redux</button>

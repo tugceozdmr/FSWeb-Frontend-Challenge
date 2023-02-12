@@ -5,7 +5,7 @@ import { useHistory } from "react-router-dom";
 
 const HandleClick=()=>{
   const history = useHistory();
-  history.replace('/<form>')
+  history.replace(' href="mailto:tugceozdemiir@hotmail.com">')
 }
 
 

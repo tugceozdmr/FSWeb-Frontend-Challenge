@@ -12,6 +12,7 @@ export default function Skills() {
           <p>Css</p>
           <p>JavaScript</p>
           <p>React</p>
+          <p>Node.Js</p>
         </div>
       </h2>
     </div>

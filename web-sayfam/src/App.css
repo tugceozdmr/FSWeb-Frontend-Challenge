@@ -49,8 +49,8 @@
   color: #dc0c71;
   border-color: #dc0c71;
   font-size: larger;
-  width: 90px;
-  height: 35px;
+  width: 100px;
+  height: 45px;
   cursor: pointer;
   border-radius: 5px;
 }
@@ -63,8 +63,8 @@
   background-color: white;
   color: #dc0c71;
   border-color: #dc0c71;
-  width: 90px;
-  height: 35px;
+  width: 100px;
+  height: 45px;
   font-size: larger;
   cursor: pointer;
   border-radius: 5px;
@@ -78,8 +78,8 @@
   background-color: white;
   color: #dc0c71;
   border-color: #dc0c71;
-  width: 90px;
-  height: 35px;
+  width: 100px;
+  height: 45px;
   font-size: larger;
   cursor: pointer;
   border-radius: 5px;
@@ -115,15 +115,16 @@
 }
 
 .bt1 {
-  margin-right: 50px;
+  margin-right: 20px;
   background-color: white;
   color: #dc0c71;
   border-color: #dc0c71;
   cursor: pointer;
-  width: 100px;
-  height: 30px;
+  width: 120px;
+  height: 45px;
   font-size: medium;
   border-radius: 5px;
+  font-weight: bolder;
 }
 
 .bt1:hover {
@@ -132,18 +133,19 @@
 }
 
 .bt2 {
-  margin-right: 50px;
+  margin-right: 20px;
   background-color: white;
   color: #dc0c71;
   border-color: #dc0c71;
   cursor: pointer;
-  width: 100px;
-  height: 30px;
+  width: 120px;
+  height: 45px;
   font-size: medium;
   align-items: center;
   display: flex;
   text-decoration:none;
   border-radius: 5px;
+  font-weight: bolder;
 }
 .bt2:hover {
   background-color: #dc0c71;
@@ -155,10 +157,11 @@
   color: #dc0c71;
   border-color: #dc0c71;
   cursor: pointer;
-  width: 100px;
-  height: 30px;
-  font-size: medium;
+  width: 120px;
+  height: 45px;
+  font-size:medium;
   border-radius: 5px;
+  font-weight: bolder;
 }
 .bt3:hover {
   background-color: #dc0c71;
@@ -275,7 +278,7 @@
 
 
 .btnicon {
-  width: 16px;
+  width: 18px;
   margin-right: 6px;
 }
 

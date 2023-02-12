@@ -29,12 +29,14 @@ export default function Profile() {
       <div className="about">
         About Me <br /> <br />
         <div className="about2">
+          <h3>
           I am studying at WorkinTech in order to use my analytical <br />
           skills and work in the software industry, which is my field of
           interest.
           <br />
           I have actively completed projects during my education process. <br />
           You can visit my GitHub page to see which projects I have completed.{" "}
+          </h3>
         </div>
       </div>
     </div>
